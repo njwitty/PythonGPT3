@@ -2,7 +2,7 @@
 Ultimate Python scripts GPT3 for Automation!!!
 
 
-Steps: (Don't forget about the safety of using environment for your projects 😉
+Steps: (Don't forget about the safety of using environment for your projects 😉)
 
 1.Download and install Python - make sure to add PATH to set it as system interpreter
 
