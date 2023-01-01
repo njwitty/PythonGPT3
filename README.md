@@ -22,4 +22,4 @@ Steps: (Don't forget about the safety of using environment for your projects �
 
 9.Go into the repo with cd PythonGPT3Tutorial
 
-10.Run the demo script with python hello_world.py
+10.Run the demo script with python hello_world.py & see the magic with affirmations ✨🙏🏻
